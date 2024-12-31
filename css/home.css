@@ -82,7 +82,7 @@ body{
 }
 
 .nav-links li a:hover {
-    color: #8e2de2;
+    color:rgb(102, 40, 172);
 }
 
 
@@ -348,7 +348,7 @@ body{
     border-radius: 40px;
     margin: 15px 10px;
     font-size: 10px;
-    border: 1px solid #8E2DE2;
+    border: none;
     transition: 0.5s;
 } 
 .section-card-button i{
