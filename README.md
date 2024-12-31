@@ -26,14 +26,15 @@ The aim of this project is to provide an introductory platform that highlights t
 
 # Team Members
 
-- Team Leader : Aniket Singh
+- Team Leader : Pranay Shinde
+- Team Member : Aniket Singh
 - Team Member : Prayag Waje 
 - Team Member : Aditi Kalane
 - Team Member : Rutuja Ranpise
 - Team Member : Ganesh Gore 
 - Team Member : Asmita Adke 
 - Team Member : Sakshi Mate 
-- Team Member : Pranay shinde
+
 
 # How to Use  
 1. Clone the repository:  
